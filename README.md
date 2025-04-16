@@ -1,6 +1,4 @@
 # Image Caption Generation using Deep Learning
-
-[![GitHub license][((https://github.com/vikramreddy153/Image_Caption_Generation_NLP/blob/main/LICENSE.md)]
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
